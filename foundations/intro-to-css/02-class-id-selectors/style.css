@@ -7,11 +7,10 @@
     color: blue;
     font-size: 36px;
 }
-#coolerclass{
+.adjust-font-size{
     font-size: 24px;
 }
 #evenid2{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
